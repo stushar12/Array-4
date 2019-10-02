@@ -1,0 +1,2 @@
+# Array-4
+Given an array of elements and change the array in such a way that all the elements on the array are distinct .If you are replacing a value ,then the replacing value should  be greater than the previous value and after modification sum of elements should be as less as possible  eg1. arr[1,2,3,4,5,5,5] then the result should be [1,2,3,4,5,6,7].   eg.2.    arr[1,2,5,7,8,8,7] then the output will be [1,2,5,7,8,9,10]  or   [1,2,5,7,8,10,9].
